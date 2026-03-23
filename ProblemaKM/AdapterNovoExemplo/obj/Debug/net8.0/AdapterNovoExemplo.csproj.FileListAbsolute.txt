@@ -1,0 +1,14 @@
+C:\Users\Administrador\source\repos\AdapterNovoExemplo\AdapterNovoExemplo\bin\Debug\net8.0\AdapterNovoExemplo.exe
+C:\Users\Administrador\source\repos\AdapterNovoExemplo\AdapterNovoExemplo\bin\Debug\net8.0\AdapterNovoExemplo.deps.json
+C:\Users\Administrador\source\repos\AdapterNovoExemplo\AdapterNovoExemplo\bin\Debug\net8.0\AdapterNovoExemplo.runtimeconfig.json
+C:\Users\Administrador\source\repos\AdapterNovoExemplo\AdapterNovoExemplo\bin\Debug\net8.0\AdapterNovoExemplo.dll
+C:\Users\Administrador\source\repos\AdapterNovoExemplo\AdapterNovoExemplo\bin\Debug\net8.0\AdapterNovoExemplo.pdb
+C:\Users\Administrador\source\repos\AdapterNovoExemplo\AdapterNovoExemplo\obj\Debug\net8.0\AdapterNovoExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\AdapterNovoExemplo\AdapterNovoExemplo\obj\Debug\net8.0\AdapterNovoExemplo.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\AdapterNovoExemplo\AdapterNovoExemplo\obj\Debug\net8.0\AdapterNovoExemplo.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\AdapterNovoExemplo\AdapterNovoExemplo\obj\Debug\net8.0\AdapterNovoExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\AdapterNovoExemplo\AdapterNovoExemplo\obj\Debug\net8.0\AdapterNovoExemplo.dll
+C:\Users\Administrador\source\repos\AdapterNovoExemplo\AdapterNovoExemplo\obj\Debug\net8.0\refint\AdapterNovoExemplo.dll
+C:\Users\Administrador\source\repos\AdapterNovoExemplo\AdapterNovoExemplo\obj\Debug\net8.0\AdapterNovoExemplo.pdb
+C:\Users\Administrador\source\repos\AdapterNovoExemplo\AdapterNovoExemplo\obj\Debug\net8.0\AdapterNovoExemplo.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\AdapterNovoExemplo\AdapterNovoExemplo\obj\Debug\net8.0\ref\AdapterNovoExemplo.dll
